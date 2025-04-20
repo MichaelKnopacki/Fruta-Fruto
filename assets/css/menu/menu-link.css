@@ -1,0 +1,11 @@
+.menu-link{
+    text-decoration: none;
+    text-transform: lowercase;
+    color: darkgray;
+    margin-right: 15px;
+}
+
+.menu-link.ativo{
+    color: black;
+    font-weight: bold;
+}
